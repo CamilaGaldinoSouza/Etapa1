@@ -15,21 +15,23 @@ nav {
    font-weight: 400;
    font-size: 14px;
    line-height: 21px;
-  text-align: center;
-  letter-spacing: 0.875px;
-   cursor:pointer;
+   text-align: center;
+   letter-spacing: 0.875px;
+   cursor: pointer;
    margin-right: 32px;
 }
 
 .img-logo {
-  margin: 163px 0 0 123px;
+   margin: 163px 0 0 123px;
 }
 
-section{
-      display: inline-block;
+section {
+   display: inline-block;
+   margin-left: 85px;
+   width: 493px;
 }
 
-h1{
+h1 {
    font-weight: 700;
    font-size: 62px;
    line-height: 82px;
@@ -37,12 +39,14 @@ h1{
    letter-spacing: 0.5px;
 }
 
-p{
+p {
    color: #4B505A;
-font-weight: 400;
-font-size: 18px;
-line-height: 33px;
-letter-spacing: 0.5px;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 33px;
+   letter-spacing: 0.5px;
+   margin-top: 47px;
+   margin-bottom:55px;
 }
 
 .button-nav {
@@ -54,15 +58,15 @@ letter-spacing: 0.5px;
    font-size: 16px;
    color: #FFFFFF;
    line-height: 24px;
-   cursor:pointer;
+   cursor: pointer;
    letter-spacing: 1px;
 }
 
-a{
+a {
    font-weight: 500;
    font-size: 18px;
    line-height: 27px;
    color: #6FBF44;
-   cursor:pointer;
- letter-spacing: 1px;
-   }
+   cursor: pointer;
+   letter-spacing: 1px;
+}
